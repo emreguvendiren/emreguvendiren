@@ -1,12 +1,12 @@
-Hi 👋 My name is Emre Güvendiren
+Hi 👋 This is Emre Güvendiren
 ================================
 
-Junior Frontend Developer
+Software Developer
 -------------------------
 
 * 🌍  I'm based in Turkey,Ankara
 * ✉️  You can contact me at [guvendirenemre1@gmail.com](mailto:guvendirenemre1@gmail.com)
-* 🧠  I'm learning React , ASP.NET Core
+* 🧠  I'm learning React , ASP.NET Core , JavaScript , 
 
 ### Skills
 
