@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Turkey,Ankara
 * ✉️  You can contact me at [guvendirenemre1@gmail.com](mailto:guvendirenemre1@gmail.com)
-* 🧠  My Abilities : Spring Boot, React, React Native, C#, and T-SQL.
+* 🧠  My Abilities : Spring Boot,Node JS, React, React Native, C#, and T-SQL.
 
 ### Skills
 
